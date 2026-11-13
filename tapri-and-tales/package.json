@@ -1,0 +1,1 @@
+{"name":"tapri-and-tales","version":"1.0.0","private":true,"type":"module","description":"OWASP NIE Vibe Sprint browser-first campus chai simulator","scripts":{"dev":"node server.mjs","build":"node --check src/engine.js && node --check src/main.js && node --test tests/*.test.js","preview":"node server.mjs","test":"node --test tests/*.test.js"}}

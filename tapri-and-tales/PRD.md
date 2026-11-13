@@ -1,0 +1,2 @@
+# Product requirements
+A campus chai stall simulation: starting cash and stock; stock purchases; editable menu pricing; playable customer service and rush periods; day-by-day profit report; customer response; Day 2 milk-supply crisis with three decisions; Judge Mode. Browser-first, fictional data, local persistence. Optional enhancements: credit ledger, Kadak Meter, weather events, achievements and multilingual story text.

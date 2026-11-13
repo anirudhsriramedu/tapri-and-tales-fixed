@@ -1,0 +1,2 @@
+# Project handover
+Version 1 includes a working browser-first core game. The first business day can be run manually or with Quick Day; after closing Day 1 and advancing to Day 2, milk supply price doubles and a decision must be taken. There is also manual shock trigger for demos. All income and stock consumption are ledger-based. Next most valuable change: verify full browser behavior and improve optional mechanics, Hindi coverage and art. Run `npm test` for financial regression checks.
